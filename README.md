@@ -19,9 +19,7 @@ Full-stack developer with an MCA background and a strong passion for building ro
 ---
 
 ### 🧠 LeetCode Stats
-<p align="center">
-  <img src="https://leetcard.jacoblin.cool/yesubalasingam?ext=activity" />
-</p>
+
 
 ---
 

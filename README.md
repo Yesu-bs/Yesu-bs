@@ -6,6 +6,7 @@
 
 ---
 
+
 ### 💡 About Me
 
 Full-stack developer with an MCA background and a strong passion for building robust web applications using Angular and Spring Boot. I thrive in fast-paced environments and love turning complex problems into clean, scalable solutions. A Java enthusiast and DSA lover, I constantly challenge myself to grow as a developer.
@@ -19,7 +20,9 @@ Full-stack developer with an MCA background and a strong passion for building ro
 ---
 
 ### 🧠 LeetCode Stats
-
+<p align="center">
+  <img src="https://leetcard.jacoblin.cool/yesubalasingam?ext=activity" />
+</p>
 
 ---
 

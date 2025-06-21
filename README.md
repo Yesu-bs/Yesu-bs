@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Yesu Balasingam</h1>
+<h1 align="center">Hi 👋, I'm Yesubalasingam</h1>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?color=36BCF7&center=true&vCenter=true&lines=Angular+%26+Spring+Boot+Developer+@+Isthara;REST+API+%7C+Microservices+%7C+Swagger;Java+Lover+💛+%7C+MongoDB+%7C+SQL;DSA+Enthusiast+%7C+Full+Stack+%7C+MCA+Graduate;Tech+Content+Creator+on+YouTube+%40Techie+Bala" />
